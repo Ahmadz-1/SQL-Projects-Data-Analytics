@@ -27,8 +27,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 - Calculated key metrics like total revenue
 
 **📈 Visualization:**
-
-![alt text](6.3_customer_segementation.png)
+<img width="1080" height="1014" alt="6 3_customer_segementation" src="https://github.com/user-attachments/assets/1915736f-b25a-4877-82d6-6b1cea154f64" />
 
 📊 **Key Findings:**
 - High-value segment (25% of customers) drives 66% of revenue ($135.4M)
@@ -52,11 +51,11 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 > ⚠️ Note: This only includes 2 charts. 
 
 Customer Revenue by Cohort (Adjusted for time in market) - First Purchase Date 
+<img width="1739" height="1257" alt="5 2_customer_revenue_normalized" src="https://github.com/user-attachments/assets/5035ae44-a2f8-4e32-a0e5-89a42bdfb30d" />
 
-![alt text](5.2_customer_revenue_normalized.png)
 
 Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
-![alt text](5.2_monthly_revenue_customers_3mo.png)
+<img width="2114" height="1057" alt="5 2_monthly_revenue_customers_3mo" src="https://github.com/user-attachments/assets/dca9bf2d-05d2-4301-b494-a024ba06f545" />
 
 📊 **Key Findings:**  
 - Customer revenue is declining, older cohorts (2016-2018) spent ~$2,800+, while 2024 cohort spending dropped to ~$1,970.  
@@ -76,8 +75,7 @@ Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
 - Calculated customer-specific metrics
 
 **📈 Visualization:**
-
-![alt text](7.3_customer_churn_cohort_year.png)
+<img width="1387" height="1097" alt="7 3_customer_churn_cohort_year" src="https://github.com/user-attachments/assets/47fd59f1-778f-4fdc-a79d-85aa3e4bdefd" />
 
 📊 **Key Findings:**  
 - Cohort churn stabilizes at ~90% after 2-3 years, indicating a predictable long-term retention pattern.  
